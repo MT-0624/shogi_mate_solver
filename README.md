@@ -1,7 +1,7 @@
 # 詰将棋解答ソフト
 sfen形式の局面と手数を入力すると詰むかどうか判定します。<br>
-Main.ktを実行してください<br>
-```Mainkt
+main.ktを実行してください<br>
+```mainkt
 fun main(){
     val b = Board()
 
